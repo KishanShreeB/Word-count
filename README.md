@@ -33,7 +33,7 @@ with open("sample.txt","r") as f:
         word=i.split()
         num+=len(word)
 print("The total numbers of words n the file is",num)
-```s
+```
 
 ### OUTPUT:
 
