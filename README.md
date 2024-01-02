@@ -21,6 +21,7 @@ Close the file.
 Print the total number of words found in the file.
 
 ## PROGRAM:
+```
 #Program to find word count
 #Developed by:Kishan Shree B
 #Register No: 212223100022
@@ -32,6 +33,7 @@ with open("sample.txt","r") as f:
         word=i.split()
         num+=len(word)
 print("The total numbers of words n the file is",num)
+```s
 
 ### OUTPUT:
 
