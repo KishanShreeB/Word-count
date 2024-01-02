@@ -39,7 +39,8 @@ print("The total numbers of words n the file is",num)
 
 ![image](https://github.com/KishanShreeB/Word-count/assets/144870434/497d57a6-da26-4492-8ac8-97c207ae9b5d)
 
-![image](https://github.com/KishanShreeB/Word-count/assets/144870434/7ca9776c-0e4a-445e-8c74-38927bfc0f99)
+![image](https://github.com/KishanShreeB/Word-count/assets/144870434/6e81458b-6112-4b6f-af9e-80dc02e6e161)
+
 
 
 
